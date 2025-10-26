@@ -83,6 +83,6 @@ El script guardará automáticamente el dataset resultante en la carpeta `/datas
 
 ## 🔗 Enlace al Dataset en Zenodo
 
-[cite_start]El dataset obtenido de este proyecto ha sido publicado en Zenodo para su acceso abierto (o simulado, si aplica [cite: 85]).
+El dataset obtenido de este proyecto ha sido publicado en Zenodo para su acceso abierto (o simulado, si aplica).
 
-[cite_start]**DOI de Zenodo:** `https://doi.org/10.5281/zenodo.17450003` [cite: 81, 176]
+**DOI de Zenodo:** `https://doi.org/10.5281/zenodo.17450003`
