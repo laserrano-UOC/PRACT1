@@ -17,6 +17,7 @@ chrome_opts.add_argument(
 )
 
 driver = webdriver.Chrome(options=chrome_opts)
+driver.set_page_load_timeout(30) # Añade un timeout de 30 segundos
 
 # ==========================================
 # PARÁMETROS DE BÚSQUEDA
